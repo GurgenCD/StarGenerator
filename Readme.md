@@ -1,7 +1,7 @@
 # StarGenerator
 A simple script that generates a star map using JS and animates them using CSS
 
-[Check it out](https://imforpeace.github.io/StarGenerator/)
+[Check it out](https://gurgencd.github.io/StarGenerator/)
 
 # How it works
 ## JS script:
